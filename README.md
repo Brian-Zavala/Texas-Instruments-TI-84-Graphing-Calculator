@@ -44,4 +44,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgments
 
 - Texas Instruments for creating this versatile educational tool
-- Mathematics and Science educators worldwide
+- Mathematics and Science educators worldwidegit
